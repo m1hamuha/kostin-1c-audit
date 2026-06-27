@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/generatereport.ts","./src/main.tsx","./src/questions.ts","./src/types.ts","./src/components/contactform.tsx","./src/components/healthscore.tsx","./src/components/intro.tsx","./src/components/questionnaire.tsx","./src/components/report.tsx","./src/components/ui.tsx"],"version":"5.9.3"}
